@@ -1,5 +1,5 @@
 ﻿using System;
-namespace PickRandomCards
+namespace PickACard
 {
 	// Card ranks
 	public enum CardRank
