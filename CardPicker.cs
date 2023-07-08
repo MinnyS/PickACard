@@ -1,5 +1,5 @@
 ﻿using System;
-namespace PickRandomCards
+namespace PickACard
 {
 	public static class CardPicker
 	{
